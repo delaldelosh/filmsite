@@ -1,0 +1,76 @@
+body{
+   background-color:blue;
+   padding: 0;
+   margin: 0;
+ }
+
+nav{
+   background-color: #041844;
+   border-bottom: #ffffff 4px solid;
+   
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   align-items: flex-start;
+}
+   label {
+      display: block;
+      font:
+        1rem 'Fira Sans',
+    }
+    input,
+    label {
+      margin: rem 0;
+   }
+nav ul{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   align-items: flex-start;
+}
+h1{
+    color: rgb(255, 255, 255); 
+}
+h2{
+   color: rgb(156, 181, 202);
+}
+h3{
+   color: rgb(151, 177, 198);
+}
+body{ background-color: #20315B
+ }
+ul{ color: rgb(151, 177, 198);
+}
+a{ color: rgb(151, 177, 198);
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   align-items: flex-start;
+}
+ h1{
+    text-align: left;
+    color: aliceblue(255, 255, 255);
+ }
+ div.classeur{
+    justify-content: space-around;
+    align-items: center;
+ }
+ div.classeur img{
+    width: 30vw;
+ }
+ img.logo{ 
+   max-width: 60px;
+   height: 60px;
+ }
+ div.films{
+   nav-down: ; display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+   align-items: flex-end;
+
+ }
+ img {
+   width: 15%;
+   height: 300px;
+   
+ }
